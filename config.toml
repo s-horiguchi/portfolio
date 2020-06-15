@@ -1,0 +1,28 @@
+baseURL = ""#"http://example.org/"
+languageCode = "en-us"
+title = "Shuhei A. Horiguchi"
+theme = "resume"
+
+[params]
+    firstName = "Shuhei A."
+    lastName = "Horiguchi"
+    address = "Tokyo, Japan"
+
+    profileImage = "img/profile.jpeg"
+    email = "shuhei.horiguchi@outlook.com"
+    description = "Personal webpage of Shuhei A. Horiguchi"
+    #favicon = "/favicon.ico"
+
+    # what sections to display
+    showSkills = false
+    showProjects = true
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showQr = false
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/s-horiguchi/"

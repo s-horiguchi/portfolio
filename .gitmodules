@@ -1,0 +1,7 @@
+[submodule "themes/resume"]
+	path = themes/resume
+	url = git@github.com:s-horiguchi/hugo-resume.git
+[submodule "public"]
+	path = public
+	url = git@github.com:s-horiguchi/s-horiguchi.github.io.git
+	branch = master
