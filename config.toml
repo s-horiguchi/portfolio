@@ -1,8 +1,9 @@
 baseURL = "https://s-horiguchi.github.io/"
-languageCode = "en-us"
 title = "Shuhei A. Horiguchi"
+languageCode = "en"
 theme = "resume"
 enableGitInfo = true
+hasCJKLanguage = true
 
 [params]
     firstName = "Shuhei A."
@@ -25,13 +26,16 @@ enableGitInfo = true
     showBlog = false
 
 [params.google]
-
-[params.google.analytics]
-    trackerID = "UA-169625140-1"
+    [params.google.analytics]
+        trackerID = "UA-169625140-1"
 
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/s-horiguchi/"
+
+[[params.handles]]
+    name = "Facebook"
+    link = "https://facebook.com/horiguchi.shuhei"
 
 [outputs]
     home = ["HTML", "JSON"]
