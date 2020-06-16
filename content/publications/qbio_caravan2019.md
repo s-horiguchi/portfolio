@@ -9,7 +9,7 @@ link: "https://q-bio.jp/wiki/Caravan_2019"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.8
+  priority : 0.5
 ---
 
 堀口修平, 小林徹也. (2019) 獲得免疫系の強化学習モデルの数理. _定量生物学の会北海道キャラバン2019_. 北海道.

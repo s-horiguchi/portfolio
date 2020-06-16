@@ -1,7 +1,8 @@
-baseURL = ""#"http://example.org/"
+baseURL = "https://s-horiguchi.github.io/"
 languageCode = "en-us"
 title = "Shuhei A. Horiguchi"
 theme = "resume"
+enableGitInfo = true
 
 [params]
     firstName = "Shuhei A."
@@ -11,7 +12,7 @@ theme = "resume"
     profileImage = "img/profile.jpeg"
     email = "shuhei.horiguchi@outlook.com"
     description = "Personal webpage of Shuhei A. Horiguchi"
-    #favicon = "/favicon.ico"
+    favicon = "/favicon.ico"
 
     # what sections to display
     showSkills = false
@@ -21,8 +22,19 @@ theme = "resume"
     showExperience = true
     showEducation = true
     showQr = false
+    showBlog = false
 
+[params.google]
+
+[params.google.analytics]
+    trackerID = "UA-169625140-1"
 
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/s-horiguchi/"
+
+[outputs]
+    home = ["HTML", "JSON"]
+
+[taxonomies]
+    tag = "tags"
