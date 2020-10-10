@@ -2,7 +2,7 @@
 title: "Theoretical Immunology"
 date: 2020-01-10
 pubtype: "Workshop"
-featured: true
+featured: false
 description: "A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle"
 tags: ["immune system","theory"]
 link: "https://workshop.theoreticalimmunology.jp/4th-workshop/"
