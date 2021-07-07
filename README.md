@@ -9,6 +9,7 @@ This is the main repository for this site.
 
 * `thems/resume` is linked to the [hugo-resume repository](https://github.com/s-horiguchi/hugo-resume)
   * The theme of [hugo-resume](https://github.com/eddiewebb/hugo-resume) is used but I modified some parts
+  * Note that I use `green` branch.
 
 
 ## How to update the site

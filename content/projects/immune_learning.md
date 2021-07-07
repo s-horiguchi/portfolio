@@ -15,6 +15,7 @@ Understanding Immune system with Reinforcement Learning Theory.
 
 Publications:
 
+ * [Master thesis](/publications/master_thesis/)
  * [Annual Meeting of JSMB2020](/publications/jsmb2020/)
  * [Workshop on Theoretical Biology](/publications/theoimm2019/)
  * [Q-bio Caravan 2019](/publications/qbio_caravan2019/)

@@ -1,9 +1,15 @@
 [
     {
         "school":"The University of Tokyo",
-        "degree":"Master student",
+        "degree":"Doctoral student",
+        "major":"Department of Mathematical Informatics, Graduate School of Information Science and Technology",
+        "range":"April 2021 - Present"
+    },
+    {
+        "school":"The University of Tokyo",
+        "degree":"Master of Engineering",
         "major":"Department of Electrical Engineering and Information Systems, Graduate School of Engineering",
-        "range":"April 2019 - Present"
+        "range":"April 2019 - March 2021"
     },
     {
         "school":"Osaka University",

@@ -11,7 +11,7 @@ outputs:
 - json
 ---
 
-**Shuhei A. Horiguchi (堀口 修平) is a Master student** at the [Laboratory for Quantitative Biology](https://research.crmind.net/index.html), Institute of Industrial Science, the University of Tokyo.
+**Shuhei A. Horiguchi (堀口 修平) is a Doctoral student** at the [Laboratory for Quantitative Biology](https://research.crmind.net/index.html), Institute of Industrial Science, the University of Tokyo.
 
 I am interested in an analogy between artificial and biological systems.
 
