@@ -18,5 +18,5 @@ I am interested in an analogy between artificial and biological systems.
 
 **Research interest:**
 
- * Information processing in multicellular systems (Immune system, Nervous system)
+ * Information processing in the multicellular system (e.g., immune system, nervous system)
  * Robotics / Computer science
