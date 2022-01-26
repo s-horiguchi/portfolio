@@ -2,7 +2,7 @@
 title: "Nature Neuroscience 2018"
 date: 2018-03-05
 pubtype: "Article"
-featured: true
+featured: false
 description: "A three-dimensional single-cell-resolution whole-brain atlas using CUBIC-X expansion microscopy and tissue clearing"
 tags: ["nervous system","informatics"]
 image: ""

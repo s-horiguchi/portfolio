@@ -2,7 +2,7 @@
 title: "Nature Protocols 2019"
 date: 2019-11-20
 pubtype: "Article"
-featured: false
+featured: true
 description: "Advanced CUBIC tissue clearing for whole-organ cell profiling"
 tags: ["nervous system","informatics"]
 image: ""
