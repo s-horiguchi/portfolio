@@ -17,7 +17,7 @@ sitemap:
 "Emergence of Cooperation and Organization in Groups of Animals and Non-living Objects"
 「生物及び無生物の集団における協調と組織化の創発」_. Online.
 
-SA. Horiguchi, TJ. Kobayashi. (2021) A gradient flow of the heterogeneous cellular population. _International Conference on
+SA. Horiguchi, TJ. Kobayashi. (2022) A gradient flow of the heterogeneous cellular population. _International Conference on
 "Emergence of Cooperation and Organization in Groups of Animals and Non-living Objects"_, Online.
 
 poster, not reviewed
