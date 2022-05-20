@@ -14,6 +14,6 @@ sitemap:
 
 堀口修平,小林徹也. (2020) 獲得免疫系の強化学習モデルとその数理構造. _第４回理論免疫学ワークショップ_. 大分.
 
-SA. Horiguchi, TJ. Kobayashi. (2019) A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle. _The 4th Workshop on Theoretical Immunology_. Oita, Japan.
+SA. Horiguchi, TJ. Kobayashi. (2020) A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle. _The 4th Workshop on Theoretical Immunology_. Oita, Japan.
 
 oral, not reviewed, invited
