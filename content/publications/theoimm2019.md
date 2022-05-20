@@ -16,4 +16,4 @@ sitemap:
 
 SA. Horiguchi, TJ. Kobayashi. (2019) A Reinforcement Learning Model of Adaptive Immunity and its Mathematical Principle. _The 4th Workshop on Theoretical Immunology_. Oita, Japan.
 
-oral, not reviewed
+oral, not reviewed, invited
