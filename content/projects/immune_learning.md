@@ -15,6 +15,7 @@ Understanding the Immune system with Learning Theory.
 
 Publications:
 
+ * [ArXiv 2022](/publications/arxiv2022)
  * [ICMMA 2021](/publications/icmma2021)
  * [Annual Meeting of JSMB2021](/publications/jsmb2021/)
  * [Master thesis](/publications/master_thesis/)

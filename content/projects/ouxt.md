@@ -6,7 +6,7 @@ link: "https://www.ouxt.jp/en/"
 description: "OUXT Polaris is a team for the Maritime RobotX Challenge."
 tags: ["Maritime RobotX Challenge", "autonomous vehicle"]
 fact: ""
-featured: true
+featured: false
 sitemap:
     priority: 0.8
 ---

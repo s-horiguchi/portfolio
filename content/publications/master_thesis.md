@@ -2,7 +2,7 @@
 title: "Master Thesis"
 date: 2021-02-01
 pubtype: "Thesis"
-featured: true
+featured: false
 description: "Understanding the T-cell Population Dynamics based on the Learning Theories"
 tags: ["immune system","theory"]
 link: ""
