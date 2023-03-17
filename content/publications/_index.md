@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications/Talks"
 date: 2018-01-01
 pubtype: "Article,Conference,Workshop,Talk,Thesis,Etc"
 featured: true
