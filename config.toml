@@ -8,7 +8,7 @@ hasCJKLanguage = true
 [params]
     firstName = "Shuhei A."
     lastName = "Horiguchi"
-    address = "Tokyo, Japan"
+    address = "Kanazawa, Japan"
 
     profileImage = "img/profile.jpeg"
     email = "shuhei.horiguchi@outlook.com"
@@ -36,6 +36,10 @@ hasCJKLanguage = true
 [[params.handles]]
     name = "Facebook"
     link = "https://facebook.com/horiguchi.shuhei"
+
+[[params.handles]]
+    name = "Researchmap"
+    link = "https://researchmap.jp/shuhei_horiguchi"
 
 [outputs]
     home = ["HTML", "JSON"]
