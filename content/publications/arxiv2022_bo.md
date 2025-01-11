@@ -10,7 +10,7 @@ link: "https://arxiv.org/abs/2211.00947"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.8
+  priority : 0.7
 ---
 
 Shuhei A. Horiguchi, Tomoharu Iwata, Taku Tsuzuki, Yosuke Ozawa. Linear Embedding-based High-dimensional Batch Bayesian Optimization without Reconstruction Mappings. preprint. arXiv:2211.00947
