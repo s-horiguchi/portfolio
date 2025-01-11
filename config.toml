@@ -10,10 +10,11 @@ hasCJKLanguage = true
     lastName = "Horiguchi"
     address = "Kanazawa, Japan"
 
-    profileImage = "img/profile.jpeg"
-    email = "shuhei.horiguchi@outlook.com"
+    profileImage = "/img/profile.jpeg"
+    email = "shuhei.a.horiguchi@gmail.com"
     description = "Personal webpage of Shuhei A. Horiguchi"
     favicon = "/favicon.ico"
+    topImage = "/img/pattern.svg"
 
     # what sections to display
     showSkills = false
@@ -24,6 +25,7 @@ hasCJKLanguage = true
     showEducation = true
     showQr = false
     showBlog = false
+    showTopImage = true
 
 [params.google]
     [params.google.analytics]
@@ -34,12 +36,13 @@ hasCJKLanguage = true
     link = "https://github.com/s-horiguchi/"
 
 [[params.handles]]
-    name = "Facebook"
-    link = "https://facebook.com/horiguchi.shuhei"
+    name = "ORCiD"
+    link = "https://orcid.org/0000-0002-8459-1914"
 
-[[params.handles]]
+[[params.handlesImages]]
     name = "Researchmap"
-    link = "https://researchmap.jp/shuhei_horiguchi"
+    link = "https://researchmap.jp/shuhei_horiguchi?lang=en"
+    image = "https://researchmap.jp/outline/img/researchmap130.gif"
 
 [outputs]
     home = ["HTML", "JSON"]
