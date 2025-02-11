@@ -12,7 +12,7 @@ outputs:
 ---
 
 **Shuhei A. Horiguchi (堀口 修平) is a postdoc** at Nano Life Science Institute  (Nano-LSI), Kanazawa University in [OKUDA LAB](http://mechgen.jp/index-en.html) led by Satoru Okuda.
-I have obtained PhD in March 2024 at the University of Tokyo under the supervision of [Tetsuya Kobayashi](https://research.crmind.net).
+I have obtained PhD in March 2024 at the University of Tokyo under the supervision of [Tetsuya J. Kobayashi](https://research.crmind.net).
 
 I am interested in an analogy between artificial and biological systems.
 
