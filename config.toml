@@ -36,6 +36,10 @@ hasCJKLanguage = true
     link = "https://github.com/s-horiguchi/"
 
 [[params.handles]]
+    name = "Google-Scholar"
+    link = "https://scholar.google.com/citations?user=cqg6IUMAAAAJ"
+
+[[params.handles]]
     name = "ORCiD"
     link = "https://orcid.org/0000-0002-8459-1914"
 
