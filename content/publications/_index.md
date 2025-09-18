@@ -13,3 +13,4 @@ sitemap:
   priority : 0.8
 ---
 
+Please visit [my Google Scholar page](https://scholar.google.com/citations?user=cqg6IUMAAAAJ) for a full list of publications.

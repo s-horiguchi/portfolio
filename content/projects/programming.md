@@ -8,7 +8,7 @@ tags: ["programming",]
 fact: ""
 featured: true
 sitemap:
-    priority: 0.8
+    priority: 0.7
 ---
 
 

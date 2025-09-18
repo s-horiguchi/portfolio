@@ -1,9 +1,9 @@
 ---
-title: "Theory of The Immune System"
+title: "Learning Theory of The Immune System"
 date: "2020-06-05T12:41:05-05:00"
 image: "/img/immune.png"
 link: ""
-description: "Understanding the immune system with the learning theory."
+description: "How does the adaptive immune system implement learning algorithms?"
 tags: ["machine learning", "immune system"]
 fact: ""
 featured: true
@@ -11,6 +11,7 @@ sitemap:
     priority: 0.8
 ---
 
+### How does the adaptive immune system implement learning algorithms?
 
 I built a mathematical model of the adaptive immune system by applying and extending the theories of machine learning. This project was a part of my master's thesis under the supervision of Tetsuya J. Kobayashi at the University of Tokyo. I received the Poster Award in [Annual Meeting of JSMB2020](/publications/jsmb2020/). The paper is still under preparation.
 
