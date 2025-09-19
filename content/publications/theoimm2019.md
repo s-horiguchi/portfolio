@@ -9,7 +9,8 @@ link: "https://workshop.theoreticalimmunology.jp/4th-workshop/"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.8
+  disable: true
+noindex: true
 ---
 
 堀口修平,小林徹也. (2020) 獲得免疫系の強化学習モデルとその数理構造. _第４回理論免疫学ワークショップ_. 大分.

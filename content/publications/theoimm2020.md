@@ -9,7 +9,8 @@ link: "https://workshop.theoreticalimmunology.jp/5th-workshop/"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.8
+  disable: true
+noindex: true
 ---
 
 堀口修平,小林徹也. (2021) 学習理論に基づく胸腺の機能的意義. _第5回理論免疫学ワークショップ_. オンライン開催.

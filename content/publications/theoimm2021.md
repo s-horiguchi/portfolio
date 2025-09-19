@@ -9,7 +9,8 @@ link: "https://workshop.theoreticalimmunology.jp/6th-program/"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.8
+  disable: true
+noindex: true
 ---
 
 堀口修平,小林徹也. (2022) 細胞集団の勾配流とT細胞分化モデル. _第6回理論免疫学ワークショップ_. オンライン開催.

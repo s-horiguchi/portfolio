@@ -9,7 +9,8 @@ link: "https://sites.google.com/view/softbio-workshop/softbio2022"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.8
+  disable: true
+noindex: true
 ---
 
 堀口修平,小林徹也. (2022) 細胞集団動態と１細胞動態の一般化勾配流によるモデリング. _ソフトバイオ研究会2022_. 秋田.

@@ -9,7 +9,8 @@ link: "https://workshop.theoreticalimmunology.jp/7th-workshop/"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.8
+  disable: true
+noindex: true
 ---
 
 堀口修平,小林徹也. (2023) 細胞集団動態の勾配流によるモデリング. _第7回理論免疫学ワークショップ_. 鹿児島.

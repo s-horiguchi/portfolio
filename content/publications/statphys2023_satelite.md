@@ -10,7 +10,8 @@ link: "http://webpark1926.sakura.ne.jp/biophys/index.php/program/"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.5
+  disable: true
+noindex: true
 ---
 
 SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. _STATPHYS28 Satellite Meeting “Statistical Physics and Information-Processing in Living Systems”_, Tokyo, Japan.

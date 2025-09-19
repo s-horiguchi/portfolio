@@ -10,7 +10,8 @@ link: "http://cmma.mims.meiji.ac.jp/eng/events/ICMMA2021/index.html"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.5
+  disable: true
+noindex: true
 ---
 
 堀口修平, 小林徹也. (2022) A gradient flow of the heterogeneous cellular population. _International Conference on

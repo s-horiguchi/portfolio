@@ -10,7 +10,8 @@ link: "https://iciam2023.org"
 fact: ""
 weight: 500
 sitemap:
-  priority : 0.5
+  disable: true
+noindex: true
 ---
 
 SA. Horiguchi, TJ. Kobayashi. (2023) Cellular gradient flow structure connects single-cell-level rules and population-level dynamics. _10th International Congress on
