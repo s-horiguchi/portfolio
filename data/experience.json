@@ -1,8 +1,12 @@
 [
     {
+        "role":"PRESTO Individual Researcher",
+        "company":"Japan Science and Technology Agency (JST)",
+        "range":"October 2025 - Present"
+    },{
         "role":"Research Fellowship for Young Scientists (PD)",
         "company":"The Japan Society for the Promotion of Science (JSPS)",
-        "range":"April 2024 - Present"
+        "range":"April 2024 - September 2025"
     },{
         "role":"Research Fellowship for Young Scientists (DC1)",
         "company":"The Japan Society for the Promotion of Science (JSPS)",
@@ -11,7 +15,7 @@
     {
         "role":"Part-time Software Engineer",
         "company":"CUBICStars Co., Ltd.",
-        "range":"April 2020 - Present"
+        "range":"April 2020 - March 2024"
     },
     {
         "role":"Research Assistant (WINGS-ABC)",

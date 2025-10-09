@@ -25,7 +25,6 @@ We found a trick to efficiently solve optimal control problems for SRNs. Conside
 
 #### For details, see the following paper:
 
-Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Optimal control of stochastic reaction networks with entropic control cost and emergence of mode-switching strategies. preprint arXiv:2409.17488
+Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Optimal Control of Stochastic Reaction Networks with Entropic Control Cost and Emergence of Mode-Switching Strategies. _PRX Life_ **3**, 033027
 
-https://arxiv.org/abs/2409.17488
-
+https://journals.aps.org/prxlife/abstract/10.1103/zttn-tpzq
