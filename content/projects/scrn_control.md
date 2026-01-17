@@ -28,3 +28,8 @@ We found a trick to efficiently solve optimal control problems for SRNs. Conside
 Shuhei A. Horiguchi, Tetsuya J. Kobayashi. Optimal Control of Stochastic Reaction Networks with Entropic Control Cost and Emergence of Mode-Switching Strategies. _PRX Life_ **3**, 033027
 
 https://journals.aps.org/prxlife/abstract/10.1103/zttn-tpzq
+
+
+You can also watch my talk from the 2nd Workshop on Biological Systems on YouTube:
+
+{{< youtube bza-myjPvpM >}}
