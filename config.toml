@@ -1,6 +1,6 @@
 baseURL = "https://www.shoriguchi.me/"
 title = "Shuhei A. Horiguchi"
-languageCode = "en"
+locale = "en"
 theme = "resume"
 enableGitInfo = true
 hasCJKLanguage = true
